@@ -1,0 +1,25 @@
+{
+  "name": "cliente-api-clima.js",
+  "version": "1.0.0",
+  "description": "Cliente para API de clima open weather map con Fetch API",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoVeronica/cliente-api-clima.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RicardoVeronica/cliente-api-clima.js/issues"
+  },
+  "homepage": "https://github.com/RicardoVeronica/cliente-api-clima.js#readme",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
